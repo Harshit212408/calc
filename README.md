@@ -5,4 +5,4 @@ Full keyboard support for quick calculations
 Responsive design that works on mobile and desktop
 Visual effects like gradient backgrounds, pulsing neon borders, and smooth transitions
 All basic operations (+, -, ×, ÷, %, clear, delete)
-Built with HTML, CSS, and JavaScript. 
+Built with HTML, CSS, and JavaScript.
